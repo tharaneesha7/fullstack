@@ -1,4 +1,5 @@
 // Task-1
+
 const n=5
 if(n & 1 === 0)
 {
