@@ -7,10 +7,10 @@ const Contact = () => {
         Get in Touch
       </h1>
       <h3 style={{ marginBottom: "20px", color: "#555" }}>
-        For queries contact: <a href="mailto:sandhiyak.22it@kongu.edu" style={{ color: "#007bff" }}>sandhiyak.22it@kongu.edu</a>
+        For queries contact: <a href="mailto:tharaneesha.22it@kongu.edu" style={{ color: "#007bff" }}>tharaneesha.22it@kongu.edu</a>
       </h3>
       <p style={{ fontSize: "18px", color: "#555" }}>
-        You can also reach us at: <b>+91 9876054324</b>
+        You can also reach us at: <b>+91 8220657970</b>
       </p>
       <p style={{ fontSize: "18px", color: "#555", marginBottom: "30px" }}>
         Office Address: <br />
