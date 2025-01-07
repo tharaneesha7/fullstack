@@ -1,10 +1,12 @@
 var express = require('express');
 var path = require('path');
 var mdb = require('mongoose');
+var cors=require('cors');
 var User=require('./models/users');
 var app = express();
 const PORT = 3001;
 app.use(express.json())
+app.use(cors());
 mdb.connect("mongodb://localhost:27017/").then(() => {
     console.log("MongoDB Connection Successful")
 }).catch(() => {
